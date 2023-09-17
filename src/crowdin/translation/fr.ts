@@ -1,3 +1,3 @@
 export default {
-  welcome: "Welcome to the project."
+  welcome: "Bienvenue sur le projet."
 };
