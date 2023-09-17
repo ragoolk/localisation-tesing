@@ -1,7 +1,7 @@
 phrase:
-  access_token: ACCESS_TOKEN #Add your personal access token to authenticate, you can find the steps on how to create one here: https://help.phrase.com/help/access-tokens
-  project_id: PROJECT_ID #The public Project ID which can be found in the Project Settings (API tab)
-  file_format: FORMAT_API_EXTENSION #Find the format you want to use here: https://help.phrase.com/help/supported-platforms-and-formats , access the article and copi the API extension
+  access_token: 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 #Add your personal access token to authenticate, you can find the steps on how to create one here: https://help.phrase.com/help/access-tokens
+  project_id: b3618c3922267c00be19b626262fb27e #The public Project ID which can be found in the Project Settings (API tab)
+  file_format: TS #Find the format you want to use here: https://help.phrase.com/help/supported-platforms-and-formats , access the article and copi the API extension
 
   push:
     sources:
